@@ -53,6 +53,7 @@ dkms.conf
 
 #compilation fichier
 *.vcxproj
+*.x64
 
 #vs Code
 *.vs
