@@ -52,7 +52,7 @@ Mkfile.old
 dkms.conf
 
 #compilation fichier
-*.vcxproj
+*.sln
 x64/
 
 #vs Code
