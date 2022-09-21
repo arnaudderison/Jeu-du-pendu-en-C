@@ -54,6 +54,6 @@ dkms.conf
 #compilation fichier
 *.sln
 x64/
-
+*.vcxproj
 #vs Code
 *.vs
