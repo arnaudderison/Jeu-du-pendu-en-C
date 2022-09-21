@@ -46,7 +46,7 @@ int main() {
 	else {
 		printf("\n\n OUPS... Tu as perdu le mot etait %s\n", motSecret);
 	}
-
+	free(lettreTrouve);
 	return 0;
 }
 
